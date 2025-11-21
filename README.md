@@ -1,4 +1,4 @@
-# Student Management System - README
+# Student Management System
 
 This document provides full instructions to run the Spring Boot + MySQL Student Management System, including environment setup, build steps, API usage, and troubleshooting.
 
